@@ -25,5 +25,9 @@ public class Stu1 {
 		
 
 	}
+	
+	public void mul() {
+		
+	}
 
 }
